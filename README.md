@@ -14,6 +14,6 @@ Agora você pode acessar o seu terminal Git em uma pasta na qual queira salvar o
 Pelo terminal acesse a pasta criada após finalizar o download do projeto rode o comando **yarn** para poder instalar todas as depêndencias 
 necessárias no projeto. 
 
-Finalizando a instalação das depêndencias você já pode mexer no código do projeto, caso queira rodar a API use o seguinte comando: **yarn dev**
+Finalizando a instalação das depêndencias você já pode mexer no código, caso queira rodar a API use o seguinte comando: **yarn dev**
 
 (Base url da api: http://localhost:3333)
